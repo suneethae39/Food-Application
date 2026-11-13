@@ -9,15 +9,14 @@ Technologies Used
 Project Structure
 
 Food-Application/
-│
 ├── database/
 ├── static/
 ├── templates/
-│   ├── cart.html
-│   ├── checkout.html
-│   ├── index.html
-│   └── menu.html
-│
+  - cart.html
+  - checkout.html
+  - index.html
+  - menu.html
+
 ├── app.py
 └── database.py
 
