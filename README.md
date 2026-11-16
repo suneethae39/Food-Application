@@ -8,10 +8,10 @@ Technologies Used
 
 Project Structure
 
-Food-Application/
-- database/
-- static/
--  templates/
+Food-Application
+- database
+- static
+-  templates
     - cart.html
     - checkout.html
     - index.html
